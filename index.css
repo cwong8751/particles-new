@@ -1,0 +1,22 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body{
+    padding: 10px;
+    overflow: hidden;
+    background-color: black;
+}
+
+canvas{
+    display: block;
+    background-color: black;
+    position: relative;
+}
+
+p{
+    color: white; 
+    font-size: 44px;
+}
